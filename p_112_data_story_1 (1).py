@@ -19,7 +19,7 @@ with open("data.csv", newline = "") as f:
 savings_data.pop(0)
 print(savings_data)
 
-# find the total number of males and females
+
 total_entries = len(savings_data)
 females = 0
 
